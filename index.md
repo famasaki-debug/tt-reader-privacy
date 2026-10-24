@@ -1,14 +1,17 @@
 # TT Reader Privacy Policy / プライバシーポリシー
 
-**Last updated / 最終更新日: October 19, 2026 / 2026年10月19日**
+**Last updated / 最終更新日: October 25, 2026 / 2026年10月25日**
 
-Operator / 運営者: **Amasaki Works**
+**Brand / 運営ブランド: Amasaki Works**  
+**Developer and Responsible Operator / 開発・運営責任者: Hisanori Amasaki**
 
 ---
 
 # 日本語
 
 ## 1. はじめに
+
+Amasaki Worksは、上記の開発・運営責任者が使用する運営ブランドです。
 
 Amasaki Works（以下「当方」）は、「英語多聴多読アプリ TT Reader」（以下「本アプリ」）におけるユーザー情報の取扱いについて、以下のとおりプライバシーポリシーを定めます。
 
@@ -108,6 +111,8 @@ Google AdMobおよび広告パートナーが取り扱うデータの保存期�
 
 ## 1. Introduction
 
+Amasaki Works is the brand name used by the developer and responsible operator identified above.
+
 Amasaki Works ("we", "us", or "our") establishes this Privacy Policy regarding the handling of information in **TT Reader**, an iOS application designed to support extensive English reading and listening.
 
 Users do not need to create an account or register personal information in order to use the core features of TT Reader.
@@ -126,7 +131,7 @@ TT Reader stores certain learning and settings data locally on the user's device
 
 These learning records are generally stored locally on the user's device.
 
-TT Reader does not transmit or store these learning records on servers operated by Amasaki Works.
+TT Reader does not transmit or store these learning records on servers operated by us.
 
 ## 3. Advertising
 
@@ -170,7 +175,7 @@ Google AdMob is used to provide advertising and related functionality.
 
 Information processed by third-party services is subject to the privacy policies of those service providers.
 
-Amasaki Works does not sell the learning data stored by TT Reader on the user's device.
+We do not sell the learning data stored by TT Reader on the user's device.
 
 ## 7. Data Retention and Deletion
 
